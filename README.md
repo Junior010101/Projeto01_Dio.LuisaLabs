@@ -1,15 +1,15 @@
-<p>
+<h1>
   <table>
     <tr>
       <td>
         <img src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n" height="120">
       </td>
-      <td>
-        <h1>Luizalabs - Back-end com Python</h1>
+      <td width="900">
+        <p>Luizalabs - Back-end com Python</p>
       </td>
     </tr>
   </table>
-</p>
+</h1>
 
 [![Python](https://img.shields.io/badge/Python-3.12-yellow)](https://docs.python.org/3.12/)
 [![DIO.](https://img.shields.io/badge/DIO.-LuisaLabs-blue)](https://web.dio.me/track/luizalabs-back-end-com-python)
