@@ -12,7 +12,7 @@
 </h1>
 
 [![Python](https://img.shields.io/badge/Python-3.12-yellow)](https://docs.python.org/3.12/)
-[![DIO.](https://img.shields.io/badge/DIO.-LuisaLabs-blue)](https://docs.python.org/3.12/)
+[![DIO.](https://img.shields.io/badge/DIO.-LuisaLabs-blue)](https://web.dio.me/track/luizalabs-back-end-com-python)
 
 ```mermaid
 flowchart TD
