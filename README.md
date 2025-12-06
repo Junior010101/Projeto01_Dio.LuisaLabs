@@ -5,7 +5,7 @@
         <img src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n" height="120">
       </td>
       <td>
-        <h2>Luizalabs - Back-end com Python</h2>
+        <span style="font-size: 1.5em; font-weight: 600;">Luizalabs - Back-end com Python</span>
       </td>
     </tr>
   </table>
