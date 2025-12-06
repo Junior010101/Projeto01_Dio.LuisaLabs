@@ -4,7 +4,7 @@
       <td>
         <img src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n" height="120">
       </td>
-      <td width="900">
+      <td width="800">
         <p>Luizalabs - Back-end com Python</p>
       </td>
     </tr>
